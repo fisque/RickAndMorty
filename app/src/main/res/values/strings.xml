@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rick And Morty Encyclopedia</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="characters_label">Characters</string>
+    <string name="locations_label">Locations</string>
+
+    <!-- General strings -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="error">Error</string>
+
+</resources>

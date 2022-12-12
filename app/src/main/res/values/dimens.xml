@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Standard dimensions -->
+    <dimen name="pd25">4dp</dimen>
+    <dimen name="pd50">8dp</dimen>
+    <dimen name="pd100">16dp</dimen>
+
+</resources>
